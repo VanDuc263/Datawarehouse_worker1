@@ -1,5 +1,0 @@
-setup.py
-workflow.egg-info/PKG-INFO
-workflow.egg-info/SOURCES.txt
-workflow.egg-info/dependency_links.txt
-workflow.egg-info/top_level.txt
