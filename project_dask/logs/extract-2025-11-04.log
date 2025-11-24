@@ -1,0 +1,33 @@
+[2025-11-04 04:35:00] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:35:01] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:35:01] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:36:16] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:36:17] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:36:17] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:36:49] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:36:52] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:36:52] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:37:15] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:37:16] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:37:16] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:38:14] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:38:14] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:38:14] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:38:38] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:38:39] [INFO] ✅ Đã cạo xong 55 sản phẩm.
+[2025-11-04 04:38:39] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 04:40:48] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 04:40:48] [INFO] ✅ Đã cạo xong 53 sản phẩm.
+[2025-11-04 04:40:48] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 10:17:10] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 10:17:20] [ERROR] ❌ Lỗi khi tải trang: HTTPSConnectionPool(host='www.thegioididong.com', port=443): Max retries exceeded with url: /dtdd (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9cc25d65e0>: Failed to establish a new connection: [Errno 113] No route to host'))
+[2025-11-04 10:39:23] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 10:41:09] [ERROR] ❌ Lỗi khi lưu dữ liệu vào MinIO: Connect timeout on endpoint URL: "http://192.168.1.103:9000/data"
+[2025-11-04 10:41:28] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 10:42:59] [ERROR] ❌ Lỗi khi lưu dữ liệu vào MinIO: Connect timeout on endpoint URL: "http://192.168.1.103:9000/data"
+[2025-11-04 10:45:13] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 10:45:17] [INFO] ✅ Đã cạo xong 52 sản phẩm.
+[2025-11-04 10:45:17] [INFO] 📦 Dữ liệu đã lưu vào MinIO bucket 'data' tại: s3://data/raw_data.csv
+[2025-11-04 20:09:52] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-04 20:10:14] [ERROR] ❌ Lỗi khi tải trang: HTTPSConnectionPool(host='www.thegioididong.com', port=443): Max retries exceeded with url: /dtdd (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8aa7797a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2025-11-04 20:10:43] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd

@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: meta_logger
+Version: 0.1
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: s3fs
+Dynamic: requires-dist
+Dynamic: requires-python

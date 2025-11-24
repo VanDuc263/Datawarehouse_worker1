@@ -1,0 +1,135 @@
+[2025-11-22 02:53:43] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 02:53:43] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 02:53:44] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 02:53:44] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 02:53:44] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:07:13] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:07:13] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:07:13] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:07:13] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:07:13] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:16:45] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:16:45] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:16:45] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:16:45] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:16:45] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:18:24] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:18:24] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:18:24] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:18:24] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:18:24] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:32:30] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:32:30] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:32:30] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:32:30] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:32:30] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:35:48] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:35:48] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:35:48] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:35:48] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:35:48] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:37:45] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:37:45] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:37:45] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:37:45] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:37:45] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:39:14] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:39:14] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:39:14] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:39:14] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:39:14] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 03:40:25] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 03:40:25] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 03:40:26] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 03:40:26] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 03:40:26] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:37:18] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:37:18] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:37:18] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:37:18] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:37:18] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:37:41] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:37:41] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:37:41] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:37:41] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:37:41] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:42:35] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:42:35] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:42:35] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:42:35] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:42:35] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:43:39] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:43:39] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:43:39] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:43:39] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:43:39] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:47:39] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:47:39] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:47:39] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:47:39] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:47:39] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:52:45] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:52:45] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:52:45] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:52:45] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:52:45] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 10:57:30] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 10:57:30] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 10:57:30] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 10:57:30] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 10:57:30] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 11:01:31] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 11:01:31] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 11:01:31] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 11:01:31] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 11:01:32] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 11:02:57] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 11:02:57] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 11:02:57] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 11:02:57] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 11:02:57] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 12:28:39] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 12:28:39] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 12:28:39] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 12:28:39] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 12:28:39] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 21:28:52] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 21:28:52] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 21:28:52] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 21:28:52] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 21:28:52] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 22:04:11] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 22:04:11] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 22:04:11] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 22:04:11] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 22:04:11] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 22:06:16] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 22:06:16] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 22:06:16] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 22:06:16] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 22:06:16] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 22:08:01] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 22:08:01] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 22:08:01] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 22:08:01] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 22:08:01] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 22:08:55] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 22:08:55] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 22:08:55] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 22:08:55] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 22:08:55] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 23:16:02] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 23:16:02] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 23:16:02] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 23:16:02] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 23:16:02] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 23:25:23] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 23:25:23] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 23:25:23] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 23:25:23] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 23:25:23] [INFO] 📦 Đã tạo FactProductPrice
+[2025-11-22 23:45:23] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-22 23:45:23] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-22 23:45:23] [INFO] ✅ Tạo xong DimBrand
+[2025-11-22 23:45:23] [INFO] ✅ Tạo xong DimProduct
+[2025-11-22 23:45:23] [INFO] 📦 Đã tạo FactProductPrice

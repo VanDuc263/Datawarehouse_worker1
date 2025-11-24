@@ -1,0 +1,47 @@
+[2025-11-21 08:20:18] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 08:20:19] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 08:20:54] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.co/dtdd
+[2025-11-21 08:21:17] [ERROR] ❌ Bị lỗi: Không tìm thấy sản phẩm nào!
+[2025-11-21 08:21:52] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.co/dtdd
+[2025-11-21 08:22:16] [ERROR] ❌ Bị lỗi: Không tìm thấy sản phẩm nào!
+[2025-11-21 11:00:22] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:00:23] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:02:40] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:02:41] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:48:50] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:48:51] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:52:06] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:52:07] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:53:55] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:53:55] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:55:54] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:55:55] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:57:17] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 11:57:17] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 11:57:42] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.co/dtdd
+[2025-11-21 11:58:04] [ERROR] ❌ Bị lỗi: Không tìm thấy sản phẩm nào!
+[2025-11-21 12:12:26] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.co/dtdd
+[2025-11-21 12:13:04] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 12:13:05] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 12:23:30] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 12:23:31] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 12:27:21] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 12:27:23] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 12:29:36] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 12:29:37] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 12:36:34] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 12:36:34] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:20:44] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:20:45] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:36:51] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:36:53] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:42:01] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:42:02] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:46:35] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:46:36] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:50:17] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:50:17] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:55:03] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:55:05] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv
+[2025-11-21 20:58:02] [INFO] 🔹 Đang cào dữ liệu từ: https://www.thegioididong.com/dtdd
+[2025-11-21 20:58:03] [INFO] ✅ Đã lưu raw_data: s3://data/raw_data.csv

@@ -1,0 +1,5 @@
+[2025-11-18 01:15:11] [INFO] 🔹 Đang đọc raw data: s3://data/raw_data.csv
+[2025-11-18 01:15:11] [INFO] ✅ Clean data saved: s3://data/clean_data.csv
+[2025-11-18 01:15:11] [INFO] ✅ Tạo xong DimBrand
+[2025-11-18 01:15:11] [INFO] ✅ Tạo xong DimProduct
+[2025-11-18 01:15:11] [INFO] 📦 Đã tạo FactProductPrice

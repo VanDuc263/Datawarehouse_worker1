@@ -1,0 +1,7 @@
+[2025-11-04 10:50:39] [INFO] 🔹 Đang đọc dữ liệu từ: s3://data/raw_data.csv
+[2025-11-04 10:50:39] [INFO] ✅ Đọc thành công, số dòng: 52
+[2025-11-04 10:50:39] [INFO] 🔸 Đã loại bỏ 31 dòng trùng lặp.
+[2025-11-04 10:50:39] [INFO] 🔸 Đã loại bỏ 1 dòng thiếu dữ liệu trong ['Tên sản phẩm', 'Giá'].
+[2025-11-04 10:50:39] [INFO] 💰 Đã chuẩn hóa cột giá tiền.
+[2025-11-04 10:50:39] [INFO] 🔹 Sau khi transform, số dòng hợp lệ: 20
+[2025-11-04 10:50:39] [INFO] 🎯 Đã ghi dữ liệu sạch vào: s3://data/clean_data.csv
